@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/SnapShot.git/static/css/main.579ac9ff.css",
+    "main.js": "/github.io/SnapShot.git/static/js/main.b7e7685a.js",
+    "static/js/787.ec704a7a.chunk.js": "/github.io/SnapShot.git/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/github.io/SnapShot.git/index.html",
+    "main.579ac9ff.css.map": "/github.io/SnapShot.git/static/css/main.579ac9ff.css.map",
+    "main.b7e7685a.js.map": "/github.io/SnapShot.git/static/js/main.b7e7685a.js.map",
+    "787.ec704a7a.chunk.js.map": "/github.io/SnapShot.git/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579ac9ff.css",
+    "static/js/main.b7e7685a.js"
+  ]
+}
