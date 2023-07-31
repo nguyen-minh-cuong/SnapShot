@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/SnapShot/static/css/main.579ac9ff.css",
-    "main.js": "/github.io/SnapShot/static/js/main.13a08b3d.js",
-    "static/js/787.ec704a7a.chunk.js": "/github.io/SnapShot/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/github.io/SnapShot/index.html",
-    "main.579ac9ff.css.map": "/github.io/SnapShot/static/css/main.579ac9ff.css.map",
-    "main.13a08b3d.js.map": "/github.io/SnapShot/static/js/main.13a08b3d.js.map",
-    "787.ec704a7a.chunk.js.map": "/github.io/SnapShot/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/SnapShot/static/css/main.579ac9ff.css",
+    "main.js": "/SnapShot/static/js/main.dd5770c8.js",
+    "static/js/787.ec704a7a.chunk.js": "/SnapShot/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/SnapShot/index.html",
+    "main.579ac9ff.css.map": "/SnapShot/static/css/main.579ac9ff.css.map",
+    "main.dd5770c8.js.map": "/SnapShot/static/js/main.dd5770c8.js.map",
+    "787.ec704a7a.chunk.js.map": "/SnapShot/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.579ac9ff.css",
-    "static/js/main.13a08b3d.js"
+    "static/js/main.dd5770c8.js"
   ]
 }
