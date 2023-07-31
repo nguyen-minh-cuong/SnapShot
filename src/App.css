@@ -1,0 +1,77 @@
+#entire {
+  height:1000px;
+}
+#header {
+  font-family:"Lucida Handwriting",cursive;
+  font-size:450%;
+  text-align: center;
+  margin-top:20%;
+}
+#input {
+  border-radius:10px;
+  width: 40%;
+  margin-left:20%;
+  margin-bottom:5%;
+  background-color:lightgray;
+  color:black;
+  border-color: black;
+  border-style:solid;
+  font-weight:bold;
+  padding-top:1.5%;
+  padding-bottom:1.5%;
+}
+#toSubmit {
+  margin-left:5%;
+  font-size:100%;
+  background-color: black;
+  text-align: center;
+  border:none;
+  border-radius:5px;
+  padding-top:1%;
+  padding-bottom:1%;
+  color:white;
+  font-weight: bold;
+  width:20%;
+}
+#urge {
+  font-family:"Courier New",monospace;
+  font-style:italic;
+  opacity:0.5;
+  text-align: center;
+  margin-left:10%;
+  margin-right:10%;
+  font-size:125%;
+}
+  
+#btn-group {
+  display:flex;
+  justify-content:center;
+  gap: 2%;
+  margin: 0% 5% 0% 5%;
+}
+#mountain,#sea,#portrait,#city {
+  text-decoration: none;
+  text-align: center;
+  font-size:90%;
+  width:20%;
+  padding:1%;
+  border:none;
+  border-radius:5px;
+  background-color:black;
+  color:white;
+  font-weight:bold;
+}
+#img-container  {
+  height:50%;
+  margin-top:10%;
+  margin-left:10%;
+  margin-right:10%;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-gap:1%;
+  row-gap: 1%;
+}
+.img{
+  width: 100%;
+  height: 100%;
+}
